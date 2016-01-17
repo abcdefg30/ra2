@@ -11,7 +11,7 @@ overlay:
 		Start: 1
 	target-valid-snow: place
 		Start: 2
-	target-valid-temperat: place
+	target-valid-temperate: place
 
 poweroff:
 	offline: poweroff
