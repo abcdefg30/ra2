@@ -63,72 +63,55 @@ radar-allies: chrome.png
 	insignia: 340,335,202,157
 
 repair-button-allies: chrome.png
-	background: 580,15,44,34
+	background: 580,15,56,34
 repair-button-allies-hover: chrome.png
-	background: 580,49,44,34
+	background: 580,49,56,34
 repair-button-allies-pressed: chrome.png
-	background: 580,83,44,34
+	background: 580,83,56,34
 repair-button-allies-highlighted: chrome.png
-	background: 580,117,44,34
+	background: 580,117,56,34
 repair-button-allies-highlighted-hover: chrome.png
-	background: 580,151,44,34
+	background: 580,151,56,34
 repair-button-allies-highlighted-pressed: chrome.png
-	background: 580,185,44,34
+	background: 580,185,56,34
 repair-button-allies-disabled: chrome.png
-	background: 580,219,44,34
+	background: 580,219,56,34
 repair-button-allies-highlighted-disabled: chrome.png
-	background: 580,219,44,34
-
-power-button-allies: chrome.png
-	background: 624,15,41,34
-power-button-allies-hover: chrome.png
-	background: 624,49,41,34
-power-button-allies-pressed: chrome.png
-	background: 624,83,41,34
-power-button-allies-highlighted: chrome.png
-	background: 624,117,41,34
-power-button-allies-highlighted-hover: chrome.png
-	background: 624,151,41,34
-power-button-allies-highlighted-pressed: chrome.png
-	background: 624,185,41,34
-power-button-allies-disabled: chrome.png
-	background: 624,219,41,34
-power-button-allies-highlighted-disabled: chrome.png
-	background: 624,219,41,34
+	background: 580,219,56,34
 
 beacon-button-allies: chrome.png
-	background: 665,15,41,34
+	background: 636,15,57,34
 beacon-button-allies-hover: chrome.png
-	background: 665,49,41,34
+	background: 636,49,57,34
 beacon-button-allies-pressed: chrome.png
-	background: 665,83,41,34
+	background: 636,83,57,34
 beacon-button-allies-highlighted: chrome.png
-	background: 665,117,41,34
+	background: 636,117,57,34
 beacon-button-allies-highlighted-hover: chrome.png
-	background: 665,151,41,34
+	background: 636,151,57,34
 beacon-button-allies-highlighted-pressed: chrome.png
-	background: 665,185,41,34
+	background: 636,185,57,34
 beacon-button-allies-disabled: chrome.png
-	background: 665,219,41,34
+	background: 636,219,57,34
 beacon-button-allies-highlighted-disabled: chrome.png
-	background: 665,219,41,34
+	background: 636,219,57,34
 
 sell-button-allies: chrome.png
-	background: 706,15,43,34
+	background: 693,15,56,34
 sell-button-allies-hover: chrome.png
-	background: 706,49,43,34
+	background: 693,49,56,34
 sell-button-allies-pressed: chrome.png
-	background: 706,83,43,34
+	background: 693,83,56,34
 sell-button-allies-highlighted: chrome.png
-	background: 706,117,43,34
+	background: 693,117,56,34
 sell-button-allies-highlighted-hover: chrome.png
-	background: 706,151,43,34
+	background: 693,151,56,34
 sell-button-allies-highlighted-pressed: chrome.png
-	background: 706,185,43,34
+	background: 693,185,56,34
 sell-button-allies-disabled: chrome.png
-	background: 706,219,43,34
+	background: 693,219,56,34
 sell-button-allies-highlighted-disabled: chrome.png
-	background: 706,219,43,34
+	background: 693,219,56,34
 
 buildings-button-allies: chrome.png
 	background: 340,15,30,32
@@ -395,72 +378,55 @@ radar-soviets: chrome.png
 	insignia: 340,847,202,157
 
 repair-button-soviets: chrome.png
-	background: 580,527,44,34
+	background: 580,527,56,34
 repair-button-soviets-hover: chrome.png
-	background: 580,561,44,34
+	background: 580,561,56,34
 repair-button-soviets-pressed: chrome.png
-	background: 580,595,44,34
+	background: 580,595,56,34
 repair-button-soviets-highlighted: chrome.png
-	background: 580,629,44,34
+	background: 580,629,56,34
 repair-button-soviets-highlighted-hover: chrome.png
-	background: 580,663,44,34
+	background: 580,663,56,34
 repair-button-soviets-highlighted-pressed: chrome.png
-	background: 580,697,44,34
+	background: 580,697,56,34
 repair-button-soviets-disabled: chrome.png
-	background: 580,731,44,34
+	background: 580,731,56,34
 repair-button-soviets-highlighted-disabled: chrome.png
-	background: 580,731,44,34
-
-power-button-soviets: chrome.png
-	background: 624,527,41,34
-power-button-soviets-hover: chrome.png
-	background: 624,561,41,34
-power-button-soviets-pressed: chrome.png
-	background: 624,595,41,34
-power-button-soviets-highlighted: chrome.png
-	background: 624,629,41,34
-power-button-soviets-highlighted-hover: chrome.png
-	background: 624,663,41,34
-power-button-soviets-highlighted-pressed: chrome.png
-	background: 624,697,41,34
-power-button-soviets-disabled: chrome.png
-	background: 624,731,41,34
-power-button-soviets-highlighted-disabled: chrome.png
-	background: 624,731,41,34
+	background: 580,731,56,34
 
 beacon-button-soviets: chrome.png
-	background: 665,527,41,34
+	background: 636,527,57,34
 beacon-button-soviets-hover: chrome.png
-	background: 665,561,41,34
+	background: 636,561,57,34
 beacon-button-soviets-pressed: chrome.png
-	background: 665,595,41,34
+	background: 636,595,57,34
 beacon-button-soviets-highlighted: chrome.png
-	background: 665,629,41,34
+	background: 636,629,57,34
 beacon-button-soviets-highlighted-hover: chrome.png
-	background: 665,663,41,34
+	background: 636,663,57,34
 beacon-button-soviets-highlighted-pressed: chrome.png
-	background: 665,697,41,34
+	background: 636,697,57,34
 beacon-button-soviets-disabled: chrome.png
-	background: 665,731,41,34
+	background: 636,731,57,34
 beacon-button-soviets-highlighted-disabled: chrome.png
-	background: 665,731,41,34
+	background: 636,731,57,34
 
 sell-button-soviets: chrome.png
-	background: 706,527,43,34
+	background: 693,527,56,34
 sell-button-soviets-hover: chrome.png
-	background: 706,561,43,34
+	background: 693,561,56,34
 sell-button-soviets-pressed: chrome.png
-	background: 706,595,43,34
+	background: 693,595,56,34
 sell-button-soviets-highlighted: chrome.png
-	background: 706,629,43,34
+	background: 693,629,56,34
 sell-button-soviets-highlighted-hover: chrome.png
-	background: 706,663,43,34
+	background: 693,663,56,34
 sell-button-soviets-highlighted-pressed: chrome.png
-	background: 706,697,43,34
+	background: 693,697,56,34
 sell-button-soviets-disabled: chrome.png
-	background: 706,731,43,34
+	background: 693,731,56,34
 sell-button-soviets-highlighted-disabled: chrome.png
-	background: 706,731,43,34
+	background: 693,731,56,34
 
 buildings-button-soviets: chrome.png
 	background: 340,532,30,32

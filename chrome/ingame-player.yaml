@@ -80,7 +80,7 @@ Container@PLAYER_WIDGETS:
 							Logic: RepairOrderButtonLogic, AddFactionSuffixLogic
 							X: 32
 							Y: 212
-							Width: 44
+							Width: 56
 							Height: 34
 							Background: repair-button
 							TooltipText: Repair
@@ -91,26 +91,11 @@ Container@PLAYER_WIDGETS:
 									X: 6
 									Y: 7
 									ImageCollection: order-icons
-						Button@POWER_BUTTON:
-							Logic: PowerdownOrderButtonLogic, AddFactionSuffixLogic
-							X: 76
-							Y: 212
-							Width: 41
-							Height: 34
-							Background: power-button
-							TooltipText: Power Down
-							TooltipContainer: TOOLTIP_CONTAINER
-							VisualHeight: 0
-							Children:
-								Image@ICON:
-									X: 6
-									Y: 7
-									ImageCollection: order-icons
 						Button@BEACON_BUTTON:
 							Logic: BeaconOrderButtonLogic, AddFactionSuffixLogic
-							X: 117
+							X: 88
 							Y: 212
-							Width: 41
+							Width: 57
 							Height: 34
 							Background: beacon-button
 							TooltipText: Place Beacon
@@ -123,9 +108,9 @@ Container@PLAYER_WIDGETS:
 									ImageCollection: order-icons
 						Button@SELL_BUTTON:
 							Logic: SellOrderButtonLogic, AddFactionSuffixLogic
-							X: 158
+							X: 145
 							Y: 212
-							Width: 43
+							Width: 56
 							Height: 34
 							Background: sell-button
 							TooltipText: Sell
