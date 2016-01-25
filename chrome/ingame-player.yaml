@@ -211,7 +211,7 @@ Container@PLAYER_WIDGETS:
 						Image@BOTTOM_CAP:
 							Logic: AddFactionSuffixLogic
 							Width: 234
-							Height: 66
+							Height: 42
 							ClickThrough: false
 							ImageCollection: sidebar
 							ImageName: background-bottom

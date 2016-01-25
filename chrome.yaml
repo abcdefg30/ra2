@@ -5,7 +5,7 @@
 sidebar-allies: chrome.png
 	background-top: 0,0,234,275
 	background-iconrow: 0,275,234,50
-	background-bottom: 0,325,234,66
+	background-bottom: 0,325,234,42
 	background-supportoverlay: 250,20,64,48
 
 sidebar-button-allies: chrome.png
