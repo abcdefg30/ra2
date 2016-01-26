@@ -179,26 +179,27 @@ Container@PLAYER_WIDGETS:
 							ImageCollection: power-icons
 							ImageName: power-normal
 		Container@SIDEBAR_PRODUCTION:
-			Background@POWERBAR_PANEL:
-				Logic: IngamePowerBarLogic
-				X: 0
-				Y: 51
-				Width: 10
-				Height: 166
-				Children:
-					ResourceBar@POWERBAR:
-						X: 0
-						Y: 0
-						Width: 10
-						Height: PARENT_BOTTOM-2
-						TooltipContainer: TOOLTIP_CONTAINER
-						TooltipTemplate: SIMPLE_TOOLTIP
-						IndicatorImage: indicator-left
-					Image@POWERBAR_PANEL:
-						X: 0
-						Y: 0
-						ImageName: power
-						ImageCollection: vertical-bars	
+			Children:
+				Background@POWERBAR_PANEL:
+					Logic: IngamePowerBarLogic
+					X: 0
+					Y: 51
+					Width: 10
+					Height: 166
+					Children:
+						ResourceBar@POWERBAR:
+							X: 0
+							Y: 0
+							Width: 10
+							Height: PARENT_BOTTOM-2
+							TooltipContainer: TOOLTIP_CONTAINER
+							TooltipTemplate: SIMPLE_TOOLTIP
+							IndicatorImage: indicator-left
+						Image@POWERBAR_PANEL:
+							X: 0
+							Y: 0
+							ImageName: power
+							ImageCollection: vertical-bars	
 			Logic: ClassicProductionLogic
 			X: WINDOW_RIGHT - 234
 			Y: 275
