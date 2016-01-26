@@ -599,6 +599,9 @@ production-icons-soviets: chrome.png
 # GENERIC
 # -----------------------------------------------------------------------------------
 
+vertical-bars: chrome.png
+	power: 320,20,7,48
+	
 scrollbar: buttons.png
 	down_arrow: 116,140,16,16
 	down_pressed: 116,140,16,16
