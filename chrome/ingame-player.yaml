@@ -61,7 +61,7 @@ Container@PLAYER_WIDGETS:
 							Background: options-button
 							TooltipText: Options
 							TooltipContainer: TOOLTIP_CONTAINER
-							VisualHeight: 0	
+							VisualHeight: 0
 						Button@REPAIR_BUTTON:
 							Logic: RepairOrderButtonLogic, AddFactionSuffixLogic
 							X: 32
@@ -179,6 +179,11 @@ Container@PLAYER_WIDGETS:
 							ImageCollection: power-icons
 							ImageName: power-normal
 		Container@SIDEBAR_PRODUCTION:
+			Logic: ClassicProductionLogic
+			X: WINDOW_RIGHT - 234
+			Y: 275
+			Width: 234
+			Height: 250
 			Children:
 				Background@POWERBAR_PANEL:
 					Logic: IngamePowerBarLogic
@@ -199,13 +204,7 @@ Container@PLAYER_WIDGETS:
 							X: 0
 							Y: 0
 							ImageName: power
-							ImageCollection: vertical-bars	
-			Logic: ClassicProductionLogic
-			X: WINDOW_RIGHT - 234
-			Y: 275
-			Width: 234
-			Height: 250
-			Children:			
+							ImageCollection: vertical-bars
 				Container@PALETTE_BACKGROUND:
 					Children:
 						Image@ROW_TEMPLATE:

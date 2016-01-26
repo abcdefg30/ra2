@@ -613,6 +613,8 @@ sidebar-bits: chrome.png
 	production-tooltip-power: 326, 300, 19, 19
 	production-tooltip-cost: 326, 281, 19, 19
 	production-iconoverlay: 250,20,64,48
+	indicator-left: 250, 357, 19, 19
+	indicator-right: 250, 357, 19, 19
 
 order-icons: chrome.png
 	options: 250,452,19,19
